@@ -54,5 +54,5 @@ As the officer in charge of the Passports Section, I was responsible for the man
 **Palm Tree Academy** (April 2012 to November 2012)
 *Accounting and Administrative Assistant Volunteer*
 
-#### Hobbies & Interests
+## Hobbies & Interests
 Full-Stack Geek (Reading, Graphic Novels, Theatre, Stand-up Comedy, Video/Card/Board-games and the obligatory Television & Film)
