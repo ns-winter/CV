@@ -46,14 +46,18 @@ As the officer in charge of the Passports Section, I was responsible for the man
 ## Experience
 
 **Malta High Commission in London** (November 2012 to April 2017)    
+
 *Consular Officer*
 
-**British Lung Foundation** (April 2012 to November 2012)   
+**British Lung Foundation** (April 2012 to November 2012) 
+
 *Corporate Fundraising Market Research Volunteer*
 
 **Palm Tree Academy** (April 2012 to November 2012)
 
 *Accounting and Administrative Assistant Volunteer*
 
+
 ## Hobbies & Interests
-Full-Stack Geek (Reading, Graphic Novels, Theatre, Stand-up Comedy, Video/Card/Board-games and the obligatory Television & Film)
+
+Senior Full-Stack Geek (Reading, Graphic Novels, Theatre, Stand-up Comedy, Video/Card/Board-games and the obligatory Television & Film)
