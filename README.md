@@ -1,5 +1,5 @@
 ## Nigel Said
-####Junior Full-Stack Web Developer (in-training)
+#### Junior Full-Stack Web Developer (in-training)
 Future graduate of Maker's Academy, Europe's leading Web Developer Bootcamp.  Seeking a Junior Developer role to continue developing myself through my passion for coding whilst contributing to something bigger than myself, that'll impact the world in a positive way.
 
 ## Skills
