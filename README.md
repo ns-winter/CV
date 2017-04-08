@@ -52,6 +52,7 @@ As the officer in charge of the Passports Section, I was responsible for the man
 *Corporate Fundraising Market Research Volunteer*
 
 **Palm Tree Academy** (April 2012 to November 2012)
+
 *Accounting and Administrative Assistant Volunteer*
 
 ## Hobbies & Interests
