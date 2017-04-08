@@ -1,6 +1,6 @@
 ## Nigel Said
 #### Junior Full-Stack Web Developer (in-training)
-Future graduate of Maker's Academy, Europe's leading Web Developer Bootcamp.  Seeking a Junior Developer role to continue developing myself through my passion for coding whilst contributing to something bigger than myself, that'll impact the world in a positive way.
+Future graduate of Maker's Academy, Europe's leading Web Developer Bootcamp. Seeking a Junior Developer role for a company whose purpose and ethos I can champion, in and outside of the office.
 
 ## Skills
 
@@ -35,7 +35,7 @@ As the officer in charge of the Passports Section, I was responsible for the man
 - Bachelors (Honours) in Communications with Psychology
 - Second Upper ( % grade average)
 - Studied and gained hands-on experience in Desktop Publishing, Music Engineering, and Magazine Production (as Editorial Co-ordinator)
-- My undergraduation disseration dealt with how 'Masculinity' is conceived through 'Myth' and 'Heroism'.
+- My undergraduate disseration dealt with how 'Masculinity' is conceived through 'Myth' and 'Heroism'.
 
 
 #### Any other qualifications
@@ -57,4 +57,5 @@ As the officer in charge of the Passports Section, I was responsible for the man
 
 ## Hobbies & Interests
 
-Senior Full-Stack Geek (Reading, Graphic Novels, Theatre, Stand-up Comedy, Video/Card/Board-games and the obligatory Television & Film)
+Full-Stack Geek (Reading, Graphic Novels, Theatre, Stand-up Comedy, Video/Card/Board-games and the obligatory Television & Film).
+
