@@ -1,11 +1,8 @@
 ## Nigel Said
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+####Junior Full-Stack Web Developer (in-training)
+Future graduate of Maker's Academy, Europe's leading Web Developer Bootcamp.  Seeking a Junior Developer role to continue developing myself through my passion for coding whilst contributing to something bigger than myself, that'll impact the world in a positive way.
 
 ## Skills
-
-#### Fast Learner
-TBD...
 
 #### Communication
 
