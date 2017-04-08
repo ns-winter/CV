@@ -4,22 +4,16 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Skills
 
-#### This Skill
+#### Fast Learner
+TBD...
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Communication
 
-- Experience
-- Achievements
-- Evidence
+During my years as a Consular Officer, I offered bilingual assistance to clients seeking to use the consular services of the Maltese High Commission.  This took place via email, phone, and face-to-face. Because of the client-facing nature of the role, it was essential that not only was my written and verbal communication clear and helpful, but also that my non-verbal communication and demeanour be professional and friendly, in order to effectively establish rapport with individuals from different backgrounds and cultures.
 
-#### Another Skill
+#### Delivery
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+As the officer in charge of the Passports Section, I was responsible for the management of client appointments and ensuring that their passports were issued within an appropriate timeframe. During my first full year at the High Commission, I increased the total issuance rate on passports by 10% (and set the record for total issuances in a calendar year) and during the entirety of my period there, I succeeded in delivering 100% of all passports to applicants within the required timeframe.  
 
 ## Education
 
@@ -52,7 +46,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **Malta High Commission in London** (November 2012 to April 2017)    
-*Consular Officer*  
+*Consular Officer*
+
 **British Lung Foundation** (April 2012 to November 2012)   
 *Corporate Fundraising Market Research Volunteer*
 
+**Palm Tree Academy** (April 2012 to November 2012)
+*Accounting and Administrative Assistant Volunteer*
+
+#### Hobbies & Interests
+Full-Stack Geek (Reading, Graphic Novels, Theatre, Stand-up Comedy, Video/Card/Board-games and the obligatory Television & Film)
