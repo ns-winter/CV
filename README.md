@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (March 2017 to June 2017)
+#### Makers Academy (April 2017 to June 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -34,15 +34,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### University of Westminster (September 2009 to September 2010)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MA in Cultural & Critical Studies
+- Merit
+- Contemporay Culture, Nationalism, and Sexuality
+- My dissertation focused on the concept of 'Happiness' in contemporary culture
 
 #### University of Malta (September 2004 to September 2008)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Bachelors (Honours) in Communications with Psychology
+- Second Upper ( % grade average)
+- Studied and gained hands-on experience in Desktop Publishing, Music Engineering, and Magazine Production (as Editorial Co-ordinator)
+- My undergraduation disseration dealt with how 'Masculinity' is conceived through 'Myth' and 'Heroism'.
 
 
 #### Any other qualifications
@@ -52,5 +54,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Malta High Commission in London** (November 2012 to April 2017)    
 *Consular Officer*  
 **British Lung Foundation** (April 2012 to November 2012)   
-*Corporate Social Responsibility Researcher (Volunteer)*
+*Corporate Fundraising Market Research Volunteer*
 
