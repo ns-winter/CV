@@ -37,9 +37,6 @@ As the officer in charge of the Passports Section, I was responsible for the man
 - Studied and gained hands-on experience in Desktop Publishing, Music Engineering, and Magazine Production (as Editorial Co-ordinator)
 - My undergraduate disseration dealt with how 'Masculinity' is conceived through 'Myth' and 'Heroism'.
 
-
-#### Any other qualifications
-
 ## Experience
 
 **Malta High Commission in London** (November 2012 to April 2017)    
