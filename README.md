@@ -1,6 +1,17 @@
 ## Nigel Said
-#### Junior Full-Stack Web Developer (in-training)
-Future graduate of Maker's Academy, Europe's leading Web Developer Bootcamp. Seeking a Junior Developer role for a company whose purpose and ethos I can champion, in and outside of the office.
+
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
+
+
+Recent graduate of Maker's Academy, Europe's leading Web Developer Bootcamp. Seeking a Junior Developer role for a company whose purpose and ethos I can champion, in and outside of the office.
+
+## Projects
+
+Project | Technologies Used | Description | 
+--- | --- | --- | 
+|[Oni Forest (Project Z)](https://github.com/immafirestarter/Project-Z) |  Swift & SpriteKit |  Final Project for Maker's Academy,  a 2D sidescrolling mobile videogame designed for the Iphone 7 |
+|[Drink Aware App](https://github.com/TimRobinson1/quiz-app) |  React Native, Javascript | Quiz App designed for mobile using React Native |
+|[Bank Tech Test](https://github.com/ns-winter/bank_tech_test) |  Ruby | Sample Tech Test designed to demonstrate good understanding of OOP |
 
 ## Skills
 
@@ -10,7 +21,7 @@ During my years as a Consular Officer, I offered bilingual assistance to clients
 
 #### Delivery
 
-As the officer in charge of the Passports Section, I was responsible for the management of client appointments and ensuring that their passports were issued within an appropriate timeframe. During my first full year at the High Commission, I increased the total issuance rate on passports by 10% (and set the record for total issuances in a calendar year) and during the entirety of my period there, I succeeded in delivering 100% of all passports to applicants within the required timeframe.  
+As the officer in charge of the Passports Section, I was responsible for the management of client appointments and ensuring that their passports were issued within an appropriate timeframe. During my first full year at the High Commission, I increased the total issuance rate on passports by 10% (and set the record for total issuances in a calendar year) and during the entirety of my period there, I succeeded in delivering 100% of all passports to applicants within the required timeframe.
 
 ## Education
 
@@ -33,7 +44,7 @@ As the officer in charge of the Passports Section, I was responsible for the man
 #### University of Malta (September 2004 to September 2008)
 
 - Bachelors (Honours) in Communications with Psychology
-- Second Upper ( % grade average)
+- Second Upper
 - Studied and gained hands-on experience in Desktop Publishing, Music Engineering, and Magazine Production (as Editorial Co-ordinator)
 - My undergraduate disseration dealt with how 'Masculinity' is conceived through 'Myth' and 'Heroism'.
 
@@ -52,7 +63,7 @@ As the officer in charge of the Passports Section, I was responsible for the man
 *Accounting and Administrative Assistant Volunteer*
 
 
-## Hobbies & Interests
+## Interests
 
 Full-Stack Geek (Reading, Graphic Novels, Theatre, Stand-up Comedy, Video/Card/Board-games and the obligatory Television & Film).
 
